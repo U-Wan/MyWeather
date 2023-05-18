@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#9EBFDA"
+    android:orientation="vertical"
+    tools:context=".SignInActivity"
+    >
+
+    <TextView
+        android:layout_margin="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:text="@string/enter_your_favourite_sities"
+        />
+
+    <EditText
+        android:id="@+id/edtTextTown1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+
+        android:layout_margin="10dp"
+        android:gravity="center_horizontal"
+        android:hint="Enter town 1"
+        android:minHeight="48dp"
+        android:autofillHints=""
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/edtTextTown2"
+        android:layout_margin="10dp"
+        android:gravity="center_horizontal"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_town_2"
+        android:minHeight="48dp" />
+
+    <EditText
+        android:id="@+id/edtTextTown3"
+        android:layout_margin="10dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter town 3"
+        android:gravity="center_horizontal"
+
+        android:minHeight="48dp" />
+
+        <Button
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/btnSave"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Save"/>
+    </LinearLayout>

@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "762094312269",
+    "firebase_url": "https://midletermm-default-rtdb.firebaseio.com",
+    "project_id": "midletermm",
+    "storage_bucket": "midletermm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762094312269:android:ef0af5b52c4a7e209c3504",
+        "android_client_info": {
+          "package_name": "com.example.midleexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762094312269-rqeuan0210mc72aktjdr0g3tmupo8ob4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAomaZkVGFAmG3vE742SULQ9n33Eec2fIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762094312269-rqeuan0210mc72aktjdr0g3tmupo8ob4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762094312269:android:1b96bfef03e3fcd49c3504",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762094312269-rqeuan0210mc72aktjdr0g3tmupo8ob4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAomaZkVGFAmG3vE742SULQ9n33Eec2fIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762094312269-rqeuan0210mc72aktjdr0g3tmupo8ob4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762094312269:android:dc35673ffb55706f9c3504",
+        "android_client_info": {
+          "package_name": "com.example.weatherApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762094312269-rqeuan0210mc72aktjdr0g3tmupo8ob4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAomaZkVGFAmG3vE742SULQ9n33Eec2fIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762094312269-rqeuan0210mc72aktjdr0g3tmupo8ob4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
